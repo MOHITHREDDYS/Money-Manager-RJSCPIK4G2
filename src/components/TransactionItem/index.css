@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+.delete_button {
+  background-color: transparent;
+  padding: 0px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}

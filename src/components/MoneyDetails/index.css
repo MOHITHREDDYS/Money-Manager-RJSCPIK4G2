@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.background_properties1 {
+  border: 1px solid #84cc16;
+  background-color: #ecfccb;
+}
+.background_properties2 {
+  border: 1px solid #06b6d4;
+  background-color: #cffafe;
+}
+.background_properties3 {
+  border: 1px solid #7c3aed;
+  background-color: #ede9fe;
+}
+
+.amounts_container {
+  margin-top: 20px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.totalAmount_image {
+  width: 70px;
+  margin-right: 25px;
+}
+.totalAmount_name {
+  color: #7e858e;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+.total_balance {
+  color: #7e858e;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-top: 0px;
+}
