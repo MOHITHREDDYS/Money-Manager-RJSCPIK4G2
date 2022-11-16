@@ -154,13 +154,13 @@ class MoneyManager extends Component {
               <span className="profile_span">Money Manager</span>
             </p>
           </div>
-          <ul className="balances_container">
+          <div className="balances_container">
             <MoneyDetails
               totalBalance={totalBalance}
               totalIncome={totalIncome}
               totalExpenses={totalExpenses}
             />
-          </ul>
+          </div>
           <div className="transaction_and_history_container">
             <div className="transaction_container">
               <h1 className="transaction_name">Add Transaction</h1>
